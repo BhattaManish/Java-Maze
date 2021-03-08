@@ -1,5 +1,5 @@
 # Java-Maze
-This  a Programm thats create Maze with different algorithms and solutions with GUI
+This  a program thats create maze with different algorithms and solutions with GUI
 
 
 
